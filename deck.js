@@ -1,0 +1,1 @@
+var deck = [shiva, words, woman, words, shiva, words];
